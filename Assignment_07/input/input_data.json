@@ -1,0 +1,128 @@
+[
+  {
+    "Transaction ID": 1,
+    "Account number": 1001,
+    "Date": "2023-03-01",
+    "Transaction type": "deposit",
+    "Amount": 1200,
+    "Currency": "CAD",
+    "Description": "Salary"
+  },
+  {
+    "Transaction ID": 2,
+    "Account number": 1002,
+    "Date": "2023-03-01",
+    "Transaction type": "deposit",
+    "Amount": 1800,
+    "Currency": "CAD",
+    "Description": "Salary"
+  },
+  {
+    "Transaction ID": 3,
+    "Account number": 1001,
+    "Date": "2023-03-02",
+    "Transaction type": "withdrawal",
+    "Amount": 300,
+    "Currency": "CAD",
+    "Description": "Groceries"
+  },
+  {
+    "Transaction ID": 4,
+    "Account number": 1001,
+    "Date": "2023-03-03",
+    "Transaction type": "transfer",
+    "Amount": 800,
+    "Currency": "CAD",
+    "Description": "Transfer to Savings"
+  },
+  {
+    "Transaction ID": 5,
+    "Account number": 1002,
+    "Date": "2023-03-03",
+    "Transaction type": "withdrawal",
+    "Amount": 400,
+    "Currency": "CAD",
+    "Description": "Shopping"
+  },
+  {
+    "Transaction ID": 6,
+    "Account number": 1002,
+    "Date": "2023-03-05",
+    "Transaction type": "deposit",
+    "Amount": 150,
+    "Currency": "EUR",
+    "Description": "Gift"
+  },
+  {
+    "Transaction ID": 7,
+    "Account number": 1001,
+    "Date": "2023-03-07",
+    "Transaction type": "withdrawal",
+    "Amount": 120,
+    "Currency": "CAD",
+    "Description": "Bills"
+  },
+  {
+    "Transaction ID": 8,
+    "Account number": 1002,
+    "Date": "2023-03-10",
+    "Transaction type": "deposit",
+    "Amount": 250,
+    "Currency": "CAD",
+    "Description": "Refund"
+  },
+  {
+    "Transaction ID": 9,
+    "Account number": 1001,
+    "Date": "2023-03-12",
+    "Transaction type": "withdrawal",
+    "Amount": 170,
+    "Currency": "CAD",
+    "Description": "Entertainment"
+  },
+  {
+    "Transaction ID": 10,
+    "Account number": 1002,
+    "Date": "2023-03-12",
+    "Transaction type": "transfer",
+    "Amount": 300,
+    "Currency": "CAD",
+    "Description": "Transfer to Savings"
+  },
+  {
+    "Transaction ID": 11,
+    "Account number": 1001,
+    "Date": "2023-03-13",
+    "Transaction type": "deposit",
+    "Amount": 13000,
+    "Currency": "CAD",
+    "Description": "Car Sale"
+  },
+  {
+    "Transaction ID": 12,
+    "Account number": 1002,
+    "Date": "2023-03-14",
+    "Transaction type": "withdrawal",
+    "Amount": 12000,
+    "Currency": "CAD",
+    "Description": "House Down Payment"
+  },
+  {
+    "Transaction ID": 13,
+    "Account number": 1001,
+    "Date": "2023-03-14",
+    "Transaction type": "deposit",
+    "Amount": 300,
+    "Currency": "XRP",
+    "Description": "Crypto Investment"
+  },
+  {
+    "Transaction ID": 14,
+    "Account number": 1002,
+    "Date": "2023-03-14",
+    "Transaction type": "deposit",
+    "Amount": 500,
+    "Currency": "LTC",
+    "Description": "Crypto Investment"
+  }
+]

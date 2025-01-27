@@ -1,0 +1,15 @@
+Transaction ID,Account number,Date,Transaction type,Amount,Currency,Description
+1,1001,2023-03-01,deposit,1000,CAD,Salary
+2,1002,2023-03-01,deposit,1500,CAD,Salary
+3,1001,2023-03-02,withdrawal,200,CAD,Groceries
+4,1001,2023-03-03,transfer,500,CAD,Transfer to Savings
+5,1002,2023-03-03,withdrawal,300,CAD,Shopping
+6,1002,2023-03-05,deposit,100,EUR,Gift
+7,1001,2023-03-07,withdrawal,100,CAD,Bills
+8,1002,2023-03-10,deposit,200,CAD,Refund
+9,1001,2023-03-12,withdrawal,150,CAD,Entertainment
+10,1002,2023-03-12,transfer,250,CAD,Transfer to Savings
+11,1001,2023-03-13,deposit,12000,CAD,Car Sale
+12,1002,2023-03-14,withdrawal,11000,CAD,House Down Payment
+13,1001,2023-03-14,deposit,250,XRP,Crypto Investment
+14,1002,2023-03-14,deposit,450,LTC,Crypto Investment
